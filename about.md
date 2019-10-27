@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+周鲁东
+本科毕业于大连理工大学, 硕士毕业于北京大学
+程序员, 目前就职于HULU北京
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ludongzhou@gmail.com](mailto:ludongzhou@gmail.com)
